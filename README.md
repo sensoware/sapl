@@ -1,2 +1,2 @@
-# sensoware
+# Sensoware
 This is sample page
